@@ -1,5 +1,5 @@
 # Customer-Churn-Prediction-ML
-#Overview
+Overview
 This project focuses on predicting customer churn using machine learning techniques. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a company. Predicting customer churn is crucial for businesses as it allows them to take proactive measures to retain customers.
 
 Table of Contents
